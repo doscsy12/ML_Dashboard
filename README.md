@@ -8,7 +8,7 @@ Exploring interactive machine learning model dashboards/apps that can be used to
 
 
 ## 1. Visualising the MNIST dataset using TensorBoard
-Getting a machine to recognise handwritten single digits is difficult. The aim here is to analyse the features of handwritten digit recognition, visualised in TensorBoard.
+Getting a machine to recognise handwritten single digits is difficult. The aim here is to analyse the features of handwritten digits, using a CNN model, visualised in TensorBoard.
 
 
 ## 2. Interactive web application 
