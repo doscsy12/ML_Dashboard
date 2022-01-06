@@ -16,7 +16,7 @@ Clinicians need a way to assess the likelihood of a patient being readmitted due
 
 
 ## 3. Dashboard for audiobook company
-An audiobook company would like information on the review score, number of reviews, etc over time. As it is good practice to first *design* a dashboard before working in Tableau, the first goal is to know what information would be useful for the company; Once we know the information needed, it will be easier to create/design the necessary charts. 
+An audiobook company would like information on the review score, number of reviews, etc, over time. As it is good practice to first *design* a dashboard before working in Tableau, the first goal is to know what information would be useful for the company; Once we know the information needed, it will be easier to create/design the necessary charts. 
 - What are the ratings and average rating?
 - Which are the audiobooks that collected the most reviews? This provides information on best-sellers. 
 - What is the reviews to sales ratio? This provides information on whether people who buy audiobooks also leave reviews.
