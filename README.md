@@ -5,7 +5,7 @@ Exploring interactive machine learning model dashboards/apps that can be used to
 |---|-------------------|-------------------|--------------------------------------------|
 | 1 | MNIST_Tensorboard | Using Tensorboard | logs folder                                |
 | 2 | app.py            | Flask app         | templates folder, finalized_pred_model.sav |
-| 3 | [Tableau]()       | link to Tableau   |     |
+| 3 | [Tableau](https://github.com/doscsy12/ML_Dashboard) | link to Tableau Public   |     |
 
 ## 1. Visualising the MNIST dataset using TensorBoard
 Getting a machine to recognise handwritten single digits is difficult. The aim here is to analyse the features of handwritten digits, using a CNN model, visualised in TensorBoard.
