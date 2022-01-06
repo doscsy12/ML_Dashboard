@@ -21,5 +21,5 @@ An audiobook company would like information on the review score, number of revie
 - Which are the audiobooks that collected the most reviews? This provides information on best-sellers. 
 - What is the reviews to sales ratio? This provides information on whether people who buy audiobooks also leave reviews.
 
-[Dashboard in Tableau](https://public.tableau.com/app/profile/sook.yee/viz/audiobook_dashboard/Dashboard1?publish=yes)
+[Dashboard in Tableau Public](https://public.tableau.com/app/profile/sook.yee/viz/audiobook_dashboard/Dashboard1?publish=yes)
 
